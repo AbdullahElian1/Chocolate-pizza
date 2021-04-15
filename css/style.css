@@ -213,3 +213,17 @@ background-image: url('/img/list-bg.png');
        width: 150%;
        height:6vh;
    } 
+
+   footer{
+       position: relative;
+       padding-top: 20px;
+       text-align: center;
+       color:gray;
+   }
+   footer img {
+       position: absolute;
+       width: 30px;
+       align-items: center;
+       top: 10px;
+
+   }
